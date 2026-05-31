@@ -48,11 +48,23 @@ All modules completed via Okta's official learning platform as part of my 90-day
 **What I learned:** Configured standard and custom administrator roles to enforce least privilege across the Okta admin console itself.  
 **Why it matters:** Over privileged admins are a major attack surface. scoping admin roles is a core Zero Trust principle.
 
+<img width="1597" height="848" alt="Screenshot 2026-05-31 094235" src="https://github.com/user-attachments/assets/cd325ac6-cee7-4d8e-8a61-8c8bb92e432f" />
+
+<img width="1285" height="618" alt="Screenshot 2026-05-31 094303" src="https://github.com/user-attachments/assets/179fc565-b909-42f5-a4fb-cb1afe0821ab" />
+
 ---
 
 ## Module 5: Define a Secure Policy Structure
 **What I learned:** Built a secure policy framework using assurance technology and Okta's comprehensive security policies, balancing security with user experience.  
 **Why it matters:** Policy structure determines how authentication and authorization decisions are made inside an organization.
+
+
+
+
+
+
+
+
 
 ---
 
@@ -73,6 +85,20 @@ All modules completed via Okta's official learning platform as part of my 90-day
 **Why it matters:** App integration is one of the most hands on in demand IAM skills. Every enterprise has dozens of apps to federate.
 
 
+---
+
+## Module 9: Automate User Provisioning
+**What I learned:** Configured automated user provisioning and deprovisioning for full lifecycle management between Okta and connected applications.  
+**Why it matters:** Manual provisioning doesn't scale and creates orphaned accounts. Automation is how IAM teams enforce joiner/mover/leaver policies.
+
+
+
+---
+
+## Module 10: Monitor Your Okta Org
+**What I learned:** Used Okta's monitoring tools to identify tasks, errors, and informational issues requiring attention in the org.  
+**Why it matters:** IAM isn't just configuration but ongoing monitoring is how you catch misconfigurations, suspicious activity, and policy drift.
+
 
 
 
@@ -91,22 +117,25 @@ application side.
 the provisioning integration end to end.
 
 
----
-
-## Module 9: Automate User Provisioning
-**What I learned:** Configured automated user provisioning and deprovisioning for full lifecycle management between Okta and connected applications.  
-**Why it matters:** Manual provisioning doesn't scale and creates orphaned accounts. Automation is how IAM teams enforce joiner/mover/leaver policies.
 
 
 
----
-
-## Module 10: Monitor Your Okta Org
-**What I learned:** Used Okta's monitoring tools to identify tasks, errors, and informational issues requiring attention in the org.  
-**Why it matters:** IAM isn't just configuration but ongoing monitoring is how you catch misconfigurations, suspicious activity, and policy drift.
 
 ---
 
 ## Certifications Targeted
-- Okta Certified Professional
+- Okta Certified Professional Aquired 5/30/2026
+<img width="1024" height="791" alt="Okta Certified Professional Badge" src="https://github.com/user-attachments/assets/d2f52345-422f-4053-a535-d1ae76b79709" />
+
+
+
+
+
+
+
+
+
+
+
+
 
