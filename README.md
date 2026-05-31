@@ -10,17 +10,37 @@ All modules completed via Okta's official learning platform as part of my 90-day
 **What I learned:** Applied customization to control how Okta communicates with end users. This includes branding, email templates, and user facing settings.  
 **Why it matters:** Enterprise orgs require consistent branding and communication standards across identity workflows.
 
+<img width="1889" height="981" alt="Screenshot 2026-05-12 082205" src="https://github.com/user-attachments/assets/e816cbc5-b4b8-45a9-aaa0-7cf6f12e7ee5" />
+
+
 ---
 
 ## Module 2: Define Your Users in Okta
 **What I learned:** Managed user accounts in Universal Directory, configured user profiles, and handled data accuracy during provisioning as part of lifecycle management.  
 **Why it matters:** Clean, accurate user data is the foundation of any IAM program.
 
+
+<img width="830" height="1060" alt="Screenshot 2026-05-12 083313" src="https://github.com/user-attachments/assets/f5e83707-9a5e-4998-bc35-4d3429b427a9" />
+
+<img width="1063" height="831" alt="Screenshot 2026-05-12 083822" src="https://github.com/user-attachments/assets/d7da7935-cfb3-4893-add6-48ce83b227ad" />
+
+<img width="1063" height="390" alt="Screenshot 2026-05-12 084612" src="https://github.com/user-attachments/assets/ca9c0389-8ee4-4452-bf0a-ad2850bbe0be" />
+
+<img width="1237" height="875" alt="Screenshot 2026-05-12 084400" src="https://github.com/user-attachments/assets/0237812b-23ec-4f72-94ee-5f634585f9bf" />
+
+
 ---
 
 ## Module 3: Organize Users with Groups
 **What I learned:** Configured group membership to control application access, administrative privileges, and policy assignments.  
 **Why it matters:** Group based access is how least privilege is enforced at scale in real enterprise environments.
+
+<img width="1608" height="864" alt="Screenshot 2026-05-30 223826" src="https://github.com/user-attachments/assets/8c924ca9-d89a-4a78-8133-468eab3f6329" />
+
+<img width="874" height="400" alt="Screenshot 2026-05-30 223957" src="https://github.com/user-attachments/assets/43306697-ea5d-4795-9a0f-bc56f4436d90" />
+
+<img width="831" height="367" alt="Screenshot 2026-05-30 224030" src="https://github.com/user-attachments/assets/703359a2-60ce-4053-929b-1cb99bd6a53b" />
+
 
 ---
 
