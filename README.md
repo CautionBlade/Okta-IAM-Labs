@@ -190,6 +190,11 @@ the provisioning integration end to end.
 
 
 
+- Okta Certified Administrator Aquiried 6/26/26
+<img width="884" height="665" alt="Screenshot_29-6-2026_92630_" src="https://github.com/user-attachments/assets/6fa5f798-a816-4c16-a3e2-7ddafe5749d1" />
+
+
+
 
 
 
